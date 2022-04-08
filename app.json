@@ -1,0 +1,15 @@
+{
+  "name": "xray",
+
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "value": ""
+    }
+  },
+  "website": "https://github.com/dopaus/",
+  "repository": "https://github.com/dopaus/dfiuer",
+  "stack": "container"
+}
